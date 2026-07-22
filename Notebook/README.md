@@ -6,8 +6,3 @@ The objective of the project was to develop practical skills in web scraping, da
 
 The dataset was collected through the Open-Meteo API and includes information on air quality (various pollutants) and climate conditions across different regions of France.
 
-Project Team:
-Colombe Sebati
-Assmae Wahmane
-Amy Pouye
-Abimael Mahoungou
